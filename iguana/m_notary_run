@@ -187,6 +187,7 @@ coins/kek_7776
 coins/kitty_7776
 coins/valve_7776
 coins/mbd_7776
+coins/nae_7776
 
 #curl --url "http://127.0.0.1:7776" --data "{\"agent\":\"passthru\",\"method\":\"paxfiats\",\"timeout\":900000}"
 
