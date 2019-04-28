@@ -129,3 +129,4 @@ curl --url "http://127.0.0.1:7776" --data "{\"coin\":\"KEK\",\"agent\":\"iguana\
 curl --url "http://127.0.0.1:7776" --data "{\"coin\":\"KEK\",\"agent\":\"iguana\",\"method\":\"splitfunds\",\"satoshis\":\"10000\",\"sendflag\":1,\"duplicates\":50}"
 curl --url "http://127.0.0.1:7776" --data "{\"coin\":\"KEK\",\"agent\":\"iguana\",\"method\":\"splitfunds\",\"satoshis\":\"10000\",\"sendflag\":1,\"duplicates\":50}"
 curl --url "http://127.0.0.1:7776" --data "{\"coin\":\"KITTY\",\"agent\":\"iguana\",\"method\":\"splitfunds\",\"satoshis\":\"10000\",\"sendflag\":1,\"duplicates\":50}"
+curl --url "http://127.0.0.1:7776" --data "{\"coin\":\"VALVE\",\"agent\":\"iguana\",\"method\":\"splitfunds\",\"satoshis\":\"10000\",\"sendflag\":1,\"duplicates\":50}"
